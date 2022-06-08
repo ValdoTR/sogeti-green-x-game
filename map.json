@@ -172,7 +172,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"src\/assets\/agenda.pdf"
+                 "value":"src\/assets\/info.pdf"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
