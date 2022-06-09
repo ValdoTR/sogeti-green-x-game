@@ -15,11 +15,13 @@ WA.onInit().then(() => {
         currentPopup = WA.ui.openPopup(
             "intelVideoPopup",
             "Is your dev toolbox ready for the Game Jam? Watch this video from Intel to see how to optimize your code.",
-            [{label: 'Watch', className: 'primary', callback: () => WA.nav.openCoWebSite("https://www.youtube.com/embed/FyrWs6bZDXw")}]
-            );
+            [
+                {label: 'Intel software', className: 'primary', callback: () => WA.nav.openTab("https://software.intel.com/")},
+                {label: 'Watch video', className: 'error', callback: () => WA.nav.openCoWebSite("https://www.youtube.com/embed/FyrWs6bZDXw")}
+            ]
+        )
     })
     WA.room.onLeaveLayer('intelVideo').subscribe(closePopUp)
-
 
     // Hackathon Left stairs
     WA.room.onEnterLayer('leftUpstairsZone').subscribe(() => {
