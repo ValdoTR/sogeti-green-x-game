@@ -139,9 +139,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openTab",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.sogeti.com\/join-us\/jobs\/"
+                 "value":"src\/assets\/IND_Job_Boards.pdf"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
