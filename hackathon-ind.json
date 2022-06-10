@@ -165,6 +165,12 @@
          "id":65,
          "name":"silent",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":90,
@@ -198,6 +204,12 @@
                  "id":76,
                  "name":"to-world",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"\/@\/bma\/sogeti-green-x-game-jam\/world#from-hackthon-ind"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":90,
