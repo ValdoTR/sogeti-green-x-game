@@ -311,6 +311,11 @@
                          "value":"USTeam1"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/app.tryeraser.com\/integration\/workadventure\/sogeti-us-team1"
@@ -337,6 +342,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"USTeam2"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -367,6 +377,11 @@
                          "value":"USTeam3"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/app.tryeraser.com\/integration\/workadventure\/sogeti-us-team3"
@@ -393,6 +408,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"USTeam4"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -423,6 +443,11 @@
                          "value":"USTeam5"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/app.tryeraser.com\/integration\/workadventure\/sogeti-us-team5"
@@ -449,6 +474,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"USTeam6"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -479,6 +509,11 @@
                          "value":"USTeam7"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/app.tryeraser.com\/integration\/workadventure\/sogeti-us-team7"
@@ -505,6 +540,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"USTeam8"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -535,6 +575,11 @@
                          "value":"USTeam9"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/app.tryeraser.com\/integration\/workadventure\/sogeti-us-team9"
@@ -561,6 +606,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"USTeam10"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -591,6 +641,11 @@
                          "value":"USTeam11"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/app.tryeraser.com\/integration\/workadventure\/sogeti-us-team11"
@@ -617,6 +672,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"USTeam12"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -647,6 +707,11 @@
                          "value":"USTeam13"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/app.tryeraser.com\/integration\/workadventure\/sogeti-us-team13"
@@ -673,6 +738,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"USTeam14"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -703,6 +773,11 @@
                          "value":"USTeam15"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/app.tryeraser.com\/integration\/workadventure\/sogeti-us-team15"
@@ -729,6 +804,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"USTeam16"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -759,6 +839,11 @@
                          "value":"USTeam17"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/app.tryeraser.com\/integration\/workadventure\/sogeti-us-team17"
@@ -785,6 +870,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"USTeam18"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -815,6 +905,11 @@
                          "value":"USTeam19"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/app.tryeraser.com\/integration\/workadventure\/sogeti-us-team19"
@@ -843,6 +938,11 @@
                          "value":"USTeam20"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/app.tryeraser.com\/integration\/workadventure\/sogeti-us-team20"
@@ -869,6 +969,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"USMatchmakingTeammates1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -904,6 +1009,11 @@
                          "value":"USMatchmakingTeammates2"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -935,6 +1045,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"USMatchmakingTeammates3"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -970,6 +1085,11 @@
                          "value":"USMatchmakingTeammates4"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -1001,6 +1121,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"USMatchmakingTeammates5"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1036,6 +1161,11 @@
                          "value":"USMatchmakingTeammates6"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -1067,6 +1197,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"USMatchmakingIdeas1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1102,6 +1237,11 @@
                          "value":"USMatchmakingIdeas2"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -1133,6 +1273,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"USMatchmakingIdeas3"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1168,6 +1313,11 @@
                          "value":"USMatchmakingIdeas4"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -1199,6 +1349,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"USMatchmakingIdeas5"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1234,6 +1389,11 @@
                          "value":"USMatchmakingIdeas6"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -1267,6 +1427,11 @@
                          "value":"US_HR1"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/app.tryeraser.com\/integration\/workadventure\/sogeti-us-hr1"
@@ -1293,6 +1458,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"US_HR2"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -1323,6 +1493,11 @@
                          "value":"US_HR3"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/app.tryeraser.com\/integration\/workadventure\/sogeti-us-hr3"
@@ -1351,6 +1526,11 @@
                          "value":"US_HR4"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/app.tryeraser.com\/integration\/workadventure\/sogeti-us-hr4"
@@ -1377,6 +1557,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"USHelpDesk"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",

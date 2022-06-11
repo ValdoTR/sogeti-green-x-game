@@ -374,6 +374,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam45"
@@ -402,6 +407,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam46"
@@ -430,6 +440,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam47"
@@ -458,6 +473,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam48"
@@ -486,6 +506,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam49"
@@ -514,6 +539,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam50"
@@ -542,6 +572,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam51"
@@ -570,6 +605,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam52"
@@ -598,6 +638,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam53"
@@ -626,6 +671,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam54"
@@ -654,6 +704,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam55"
@@ -682,6 +737,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam56"
@@ -710,6 +770,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam57"
@@ -738,6 +803,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam58"
@@ -766,6 +836,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam59"
@@ -794,6 +869,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam60"
@@ -822,6 +902,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam61"
@@ -850,6 +935,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam62"
@@ -878,6 +968,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam63"
@@ -906,6 +1001,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam64"
@@ -934,6 +1034,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingTeammates1"
@@ -967,6 +1072,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingTeammates2"
@@ -1000,6 +1110,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingTeammates3"
@@ -1033,6 +1148,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingTeammates4"
@@ -1066,6 +1186,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingTeammates5"
@@ -1099,6 +1224,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingTeammates6"
@@ -1132,6 +1262,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingIdeas1"
@@ -1165,6 +1300,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingIdeas2"
@@ -1198,6 +1338,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingIdeas3"
@@ -1231,6 +1376,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingIdeas4"
@@ -1264,6 +1414,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingIdeas5"
@@ -1297,6 +1452,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingIdeas6"
@@ -1330,6 +1490,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EU_HR1"
@@ -1358,6 +1523,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EU_HR2"
@@ -1386,6 +1556,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EU_HR3"
@@ -1414,6 +1589,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EU_HR4"
@@ -1442,6 +1622,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EU_HR5"
@@ -1470,6 +1655,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EU_HR6"
@@ -1498,6 +1688,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUHelpDesk"

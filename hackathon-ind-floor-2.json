@@ -137,6 +137,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam133"
@@ -165,6 +170,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam134"
@@ -193,6 +203,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam135"
@@ -221,6 +236,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam136"
@@ -249,6 +269,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam137"
@@ -277,6 +302,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam138"
@@ -305,6 +335,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam139"
@@ -333,6 +368,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam140"
@@ -361,6 +401,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam141"
@@ -389,6 +434,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam142"
@@ -417,6 +467,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam143"
@@ -445,6 +500,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam144"
@@ -473,6 +533,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam145"
@@ -501,6 +566,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam146"
@@ -529,6 +599,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam147"
@@ -557,6 +632,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam148"
@@ -585,6 +665,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam149"
@@ -613,6 +698,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam150"
@@ -641,6 +731,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam151"
@@ -669,6 +764,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam152"
@@ -697,6 +797,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam153"
@@ -725,6 +830,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam154"
@@ -753,6 +863,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam155"
@@ -781,6 +896,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        },
+                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"INDTeam156"
