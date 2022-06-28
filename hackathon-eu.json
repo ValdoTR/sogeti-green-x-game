@@ -374,14 +374,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam45"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -407,14 +407,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam46"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -440,14 +440,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam47"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -473,14 +473,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam48"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -506,14 +506,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam49"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -539,14 +539,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam50"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -572,14 +572,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam51"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -605,14 +605,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam52"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -638,14 +638,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam53"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -671,14 +671,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam54"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -704,14 +704,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam55"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -737,14 +737,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam56"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -770,14 +770,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam57"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -803,14 +803,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam58"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -836,14 +836,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam59"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -869,14 +869,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam60"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -902,14 +902,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam61"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -935,14 +935,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam62"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -968,14 +968,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam63"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -1001,14 +1001,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUTeam64"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -1034,14 +1034,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingTeammates1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1072,14 +1072,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingTeammates2"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1110,14 +1110,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingTeammates3"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1148,14 +1148,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingTeammates4"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1186,14 +1186,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingTeammates5"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1224,14 +1224,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingTeammates6"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1262,14 +1262,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingIdeas1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1300,14 +1300,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingIdeas2"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1338,14 +1338,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingIdeas3"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1376,14 +1376,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingIdeas4"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1414,14 +1414,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingIdeas5"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1452,14 +1452,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUMatchmakingIdeas6"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1490,14 +1490,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EU_HR1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -1523,14 +1523,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EU_HR2"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -1556,14 +1556,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EU_HR3"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -1589,14 +1589,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EU_HR4"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -1622,14 +1622,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EU_HR5"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -1655,14 +1655,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EU_HR6"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -1688,14 +1688,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"admin"
-                        },
-                       {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"EUHelpDesk"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
                         }, 
                         {
                          "name":"openWebsite",
@@ -1763,7 +1763,7 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18483, 18487, 18487, 18487, 18487, 18487, 18487, 18487, 18487, 18487, 18484, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147502132, 2147502135, 2147502135, 2147502135, 2147502135, 2147502135, 2147502135, 2147502135, 2147502135, 2147502135, 2147502131, 0, 0, 18489, 0, 0, 18271, 0, 18271, 15463, 18271, 0, 0, 18490, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147502138, 0, 0, 2147501919, 2147499111, 2147501919, 0, 2147501919, 0, 0, 2147502137, 0, 0, 18486, 18488, 18488, 18488, 18488, 18488, 18488, 18488, 18488, 18488, 18485, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147502133, 2147502136, 2147502136, 2147502136, 2147502136, 2147502136, 2147502136, 2147502136, 2147502136, 2147502136, 2147502134, 0, 0, 0, 0, 18304, 0, 0, 0, 0, 0, 18304, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18247, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18247, 0, 18100, 0, 9407, 0, 0, 0, 9932, 9933, 0, 0, 0, 9405, 0, 18100, 0, 18247, 0, 0, 0, 0, 0, 0, 0, 18247, 0, 0, 0, 0, 0, 0, 0, 18247, 0, 0, 0, 0, 0, 0, 18247, 0, 0, 0, 2147501952, 0, 0, 0, 0, 0, 2147501952, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9407, 0, 0, 0, 9948, 9949, 0, 0, 0, 9405, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9407, 0, 0, 0, 0, 0, 0, 0, 0, 9405, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15511, 0, 0, 0, 0, 0, 0, 0, 15511, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17471, 17472, 19108, 19109, 19110, 0, 0, 0, 17441, 17442, 19099, 19100, 19101, 0, 0, 0, 0, 0, 0, 9407, 0, 0, 0, 0, 0, 0, 0, 0, 9405, 0, 0, 0, 0, 0, 0, 19117, 19118, 19119, 17411, 17412, 0, 0, 0, 19126, 19127, 19128, 17411, 17412, 0, 0, 0, 19135, 19136, 19137, 17411, 17412, 0, 0, 15511, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9407, 0, 0, 0, 0, 0, 0, 0, 0, 9405, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15479, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9389, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9392, 0, 9388, 9390, 0, 0, 0, 0, 0, 0, 0, 0, 9390, 9392, 0, 9388, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9391, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 0, 9438, 9439, 0, 0, 0, 1610631791, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15527, 0, 0, 0, 0, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19057, 19058, 19059, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15511, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 0, 0, 1610631791, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1610631791, 0, 0, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19066, 19067, 19068, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19066, 19067, 19068, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15463, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19102, 19103, 19104, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684373615, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9322, 9322, 9322, 9322, 9322, 9322, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9322, 9337, 9338, 9338, 9338, 9322, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9322, 0, 0, 0, 0, 9322, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9322, 9322, 9322, 9322, 9322, 9322, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 565, 566, 565, 566, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 563, 564, 563, 564, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 613, 614, 613, 614, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 611, 612, 611, 612, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 629, 630, 629, 630, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 627, 628, 627, 628, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 565, 566, 565, 566, 0, 0, 0, 17141, 17142, 17143, 17144, 0, 0, 0, 563, 564, 563, 564, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17154, 17155, 17156, 17157, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15527, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 613, 614, 613, 614, 0, 0, 0, 17167, 17168, 17169, 17170, 0, 0, 0, 611, 612, 611, 612, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 629, 630, 629, 630, 0, 0, 0, 17180, 17181, 17182, 17183, 0, 0, 0, 627, 628, 627, 628, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15527, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 565, 566, 565, 566, 0, 0, 0, 0, 1610631791, 0, 0, 0, 0, 0, 563, 564, 563, 564, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15511, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19057, 19058, 19059, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 613, 614, 613, 614, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 611, 612, 611, 612, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 629, 630, 629, 630, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 627, 628, 627, 628, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 565, 566, 565, 566, 0, 0, 17105, 17106, 17107, 17108, 17109, 17110, 0, 0, 563, 564, 563, 564, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17118, 17119, 17120, 17121, 17122, 17123, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15511, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 613, 614, 613, 614, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 611, 612, 611, 612, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 629, 630, 629, 630, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 627, 628, 627, 628, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 565, 566, 565, 566, 0, 0, 0, 0, 18521, 18522, 0, 0, 0, 0, 563, 564, 563, 564, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18259, 0, 0, 18259, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 613, 614, 613, 614, 0, 0, 0, 17150, 17151, 17152, 17153, 0, 0, 0, 611, 612, 611, 612, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15463, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 629, 630, 629, 630, 0, 0, 0, 17163, 17164, 17165, 17166, 0, 0, 0, 627, 628, 627, 628, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 565, 566, 565, 566, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 563, 564, 563, 564, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 613, 614, 613, 614, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 611, 612, 611, 612, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 629, 630, 629, 630, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 627, 628, 627, 628, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 1610631791, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1610631791, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 0, 19138, 19139, 19140, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19147, 19148, 19149, 0, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 0, 0, 17411, 17412, 17471, 17472, 0, 0, 0, 0, 0, 0, 17561, 17562, 17621, 17622, 0, 0, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17441, 17442, 17501, 17502, 0, 0, 0, 0, 17531, 17532, 17591, 17592, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15479, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17105, 17106, 17107, 17108, 17109, 17110, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17118, 17119, 17120, 17121, 17122, 17123, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17130, 17131, 17132, 17133, 17134, 17135, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15527, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15527, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15479, 0, 0, 0, 0, 0, 0, 0, 15463, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15479, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15511, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15511, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15511, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18483, 18487, 18487, 18487, 18487, 18487, 18487, 18487, 18487, 18487, 18484, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147502132, 2147502135, 2147502135, 2147502135, 2147502135, 2147502135, 2147502135, 2147502135, 2147502135, 2147502135, 2147502131, 0, 0, 18489, 0, 0, 18271, 0, 18271, 15463, 18271, 0, 0, 18490, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147502138, 0, 0, 2147501919, 2147499111, 2147501919, 0, 2147501919, 0, 0, 2147502137, 0, 0, 18486, 18488, 18488, 18488, 18488, 18488, 18488, 18488, 18488, 18488, 18485, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147502133, 2147502136, 2147502136, 2147502136, 2147502136, 2147502136, 2147502136, 2147502136, 2147502136, 2147502136, 2147502134, 0, 0, 0, 0, 18304, 0, 0, 0, 0, 0, 18304, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18247, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18247, 0, 18100, 0, 9407, 0, 0, 0, 9932, 9933, 0, 0, 0, 9405, 0, 18100, 0, 18247, 0, 0, 0, 0, 0, 0, 0, 18247, 0, 0, 0, 0, 0, 0, 0, 18247, 0, 0, 0, 0, 0, 0, 18247, 0, 0, 0, 2147501952, 0, 0, 0, 0, 0, 2147501952, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9407, 0, 0, 0, 9948, 9949, 0, 0, 0, 9405, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9407, 0, 0, 0, 0, 0, 0, 0, 0, 9405, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15511, 0, 0, 0, 0, 0, 0, 0, 15511, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17471, 17472, 0, 0, 0, 0, 0, 0, 17441, 17442, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9407, 0, 0, 0, 0, 0, 0, 0, 0, 9405, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17411, 17412, 0, 0, 0, 0, 0, 0, 17411, 17412, 0, 0, 0, 0, 0, 0, 17411, 17412, 0, 0, 15511, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9407, 0, 0, 0, 0, 0, 0, 0, 0, 9405, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15479, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9389, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9392, 0, 9388, 9390, 0, 0, 0, 0, 0, 0, 0, 0, 9390, 9392, 0, 9388, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9390, 9391, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 0, 9438, 9439, 0, 0, 0, 1610631791, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15527, 0, 0, 0, 0, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19057, 19058, 19059, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15511, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 0, 0, 1610631791, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1610631791, 0, 0, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19066, 19067, 19068, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19066, 19067, 19068, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15463, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19102, 19103, 19104, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684373615, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9322, 9322, 9322, 9322, 9322, 9322, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9322, 9337, 9338, 9338, 9338, 9322, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9322, 0, 0, 0, 0, 9322, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9322, 9322, 9322, 9322, 9322, 9322, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 565, 566, 565, 566, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 563, 564, 563, 564, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 613, 614, 613, 614, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 611, 612, 611, 612, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 629, 630, 629, 630, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 627, 628, 627, 628, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 565, 566, 565, 566, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 563, 564, 563, 564, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15527, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 613, 614, 613, 614, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 611, 612, 611, 612, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 629, 630, 629, 630, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 627, 628, 627, 628, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15527, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 565, 566, 565, 566, 0, 0, 0, 0, 1610631791, 0, 0, 0, 0, 0, 563, 564, 563, 564, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15511, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19057, 19058, 19059, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 613, 614, 613, 614, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 611, 612, 611, 612, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 629, 630, 629, 630, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 627, 628, 627, 628, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 565, 566, 565, 566, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 563, 564, 563, 564, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15511, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 613, 614, 613, 614, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 611, 612, 611, 612, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 629, 630, 629, 630, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 627, 628, 627, 628, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 565, 566, 565, 566, 0, 0, 0, 0, 18521, 18522, 0, 0, 0, 0, 563, 564, 563, 564, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18259, 0, 0, 18259, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 613, 614, 613, 614, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 611, 612, 611, 612, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15463, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 629, 630, 629, 630, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 627, 628, 627, 628, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 565, 566, 565, 566, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 563, 564, 563, 564, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 613, 614, 613, 614, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 611, 612, 611, 612, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 629, 630, 629, 630, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 627, 628, 627, 628, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 1610631791, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1610631791, 0, 0, 0, 0, 0, 0, 13885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147497533, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 0, 19138, 19139, 19140, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19147, 19148, 19149, 0, 0, 0, 0, 0, 13901, 0, 0, 0, 0, 12009, 0, 0, 0, 0, 0, 2147495657, 0, 0, 0, 0, 2147497549, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15240, 0, 15240, 11994, 0, 0, 0, 0, 0, 2147495642, 2147498888, 0, 2147498888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 0, 0, 17411, 17412, 17471, 17472, 0, 0, 0, 0, 0, 0, 17561, 17562, 17621, 17622, 0, 0, 0, 0, 0, 0, 0, 0, 15256, 0, 15256, 0, 0, 0, 0, 0, 0, 0, 2147498904, 0, 2147498904, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17441, 17442, 17501, 17502, 0, 0, 0, 0, 17531, 17532, 17591, 17592, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15479, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 19051, 19052, 19053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17130, 17131, 17132, 17133, 17134, 17135, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 19060, 19061, 19062, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15527, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15527, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15479, 0, 0, 0, 0, 0, 0, 0, 15463, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15479, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15511, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15511, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15511, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":70,
          "id":44,
          "name":"belowFurniture",
